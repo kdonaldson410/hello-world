@@ -1,1 +1,2 @@
 My new file
+I have added a new line of text to this file.
